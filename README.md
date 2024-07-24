@@ -11,10 +11,11 @@ Discord bot commissioned by Wigi (@wigidotme)
 # Planning: 💭
 - Slash command interaction
 - Custom messages (autoresponse + prefix/slash command message into bot to send)
+- ~~need to use different modules~~
 - Automod?
 
 # Finished: ✅
 - Verification autoresponse to auto give role
 - Status
 
-*All source code goes here except secret constants*
+*All finished source code goes here except secret constants*
