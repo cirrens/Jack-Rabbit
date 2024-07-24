@@ -10,7 +10,7 @@ Discord bot commissioned by Wigi (@wigidotme)
 
 # Planning: 💭
 - Slash command interaction
-- Custom messages (autoresponse + prefix message into bot to send)
+- Custom messages (autoresponse + prefix/slash command message into bot to send)
 - Automod?
 
 # Finished: ✅
