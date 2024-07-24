@@ -5,7 +5,7 @@ Discord bot commissioned by Wigi (@wigidotme)
 - Custom color role shop with embed and dropdown
 - Econ commands for shop
 - Storing data for shop
-- Organizing into different files
+- Organizing into different files using cogs
 - ~~finding a way to host this bot without my electricity bill shooting up AHH SELF-HOSTING SUCKS AHHHHH~~
 
 # Planning: 💭
