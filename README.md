@@ -17,4 +17,4 @@ Discord bot commissioned by Wigi (@wigidotme)
 - Verification autoresponse to auto give role
 - Status
 
-All source code goes here except secret constants
+*All source code goes here except secret constants*
