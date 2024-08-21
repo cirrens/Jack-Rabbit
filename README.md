@@ -6,6 +6,7 @@ Discord bot commissioned by Wigi (@wigidotme)
 - Econ commands for shop
 - Storing data for shop
 - Organizing into different files using cogs
+- Bot hosting (michael couldn't self-host anymore rip)
 
 # Planning: 💭
 - Slash command interaction
@@ -16,6 +17,5 @@ Discord bot commissioned by Wigi (@wigidotme)
 # Finished: ✅
 - Verification autoresponse to auto give role
 - Status
-- Bot hosting (TYSM MICHAEL FOR VOLUNTEERING TO SELF-HOST)
 
 *All finished source code goes here except secret constants*
